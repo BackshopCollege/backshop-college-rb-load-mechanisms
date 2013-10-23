@@ -1,0 +1,4 @@
+require_relative '../lib/cow'
+require_relative '../lib/board'
+
+Cow.say ARGV[0] || "What does the FOX says ?"
