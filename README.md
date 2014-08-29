@@ -1,4 +1,4 @@
 rb-load-mechanisms
 =================
 
-Ruby Load/Require Mechanisms
+Just to learn how ruby load/require files
